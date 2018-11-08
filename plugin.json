@@ -1,0 +1,12 @@
+{
+    "ID":"79389422-8082-4daf-816d-2e9970ef5c1a",
+    "ActionKeyword":"uuid",
+    "Name":"生成UUID",
+    "Description":"生成UUID",
+    "Author":"YuJiaping",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"https://github.com/Wox-launche/Wox",
+    "IcoPath":"./Images/app.png",
+    "ExecuteFileName":"main.py"
+}
