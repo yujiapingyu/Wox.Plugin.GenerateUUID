@@ -5,7 +5,7 @@ import pyperclip
 import uuid
 
 
-class Exchange(Wox):
+class UUID(Wox):
 
     def query(self, query):
         results = []
@@ -32,4 +32,4 @@ class Exchange(Wox):
 
 
 if __name__ == "__main__":
-    Exchange()
+    UUID()
